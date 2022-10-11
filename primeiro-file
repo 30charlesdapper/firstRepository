@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" 
+    crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Lora:wght@400;500&display=swap" 
+    rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" 
+    crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Frank+Ruhl+Libre&display=swap" 
+    rel="stylesheet">
+
+    <title>Jaqueline Koppe Advogada</title>
+</head>
+<body>
+    <header>
+        <div>
+           <h1> Jaqueline Koppe </h1>
+        </div>
+        <nav>
+            <ul>
+                <li><a href="https://api.whatsapp.com/send/?phone=5551996572423&text&type=phone_number&app_absent=0">Contato</a></li>
+                <li><a href="index.html/section/sobre-mim">Sobre Mim</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section id="hero">
+            <div id="texto-jaque">
+            <h2>Advocacia Previdenciária </h2>
+                 <h2>Aposentadoria com Tranquilidade!</h2>
+                 <h2>O Melhor Benefício é com Planejamento! </h2>
+            
+             <a href="https://api.whatsapp.com/send/?phone=5551996572423&text&type=phone_number&app_absent=0" id="btn"> Clique Aqui! Vamos Conversar</a>
+            </div>
+        </section>
+        <section id="sobre-mim">
+            <div>
+                <h2>Advogada Jaqueline Koppe</h2>
+                <p>Advogada formada pela Univerisade Feevale, sendo inscrita
+                    na Ordem dos Advogados -RS, sob o n° RS 110351 </p>
+                    <p>
+                        Especialista em Direito Previdenciário, atuando com foco
+                        no planejamento e eficiência do direito previdenciário
+                    </p>
+                    <P>Não perca seu direito adquirido, 
+                        com minha orientação e planejamento, dando mais segurança 
+                        para o seu patrimônio
+                    </P>
+                    <a href="https://api.whatsapp.com/send/?phone=5551996572423&text&type=phone_number&app_absent=0" id="btn"> Clique Aqui! Vamos Conversar</a>
+                    <p>E-mail: jaqueline@koppe.advogada </p>
+                </div>
+        </section>
+    </main>
+    <footer>
+        <ul>
+            <li>
+                <a href="https://www.instagram.com/jaquelinekoppe/">
+                <img src="/icons/insta.png" alt="instagram-logo"> </a>
+            </li>
+            <li>
+                <a href="https://www.facebook.com/jaquelinekoppeadv">
+                <img src="/icons/facebook.png" 
+                alt="facebook-logo"></a>
+            </li>
+            <li>
+                <a href="https://api.whatsapp.com/send/?phone=5551996572423&text&type=phone_number&app_absent=0">
+                <img src="/icons/whatsapp-icon-logo.png" 
+                alt="whatsapp-logo"></a>
+            </li>
+        </ul>
+    </footer>
+</body>
+</html>
